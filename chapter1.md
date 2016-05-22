@@ -4,7 +4,7 @@
 
 直接说结论：
 
-<img src="./img/chapter1.jpg" height="148" width="348" />
+![chapter1](img/chapter1.jpg)
 
 上图表明：**JavaScript**并不是一门新语言，它是由**ECMAScript**、**DOM**、**BOM**组成的。
 
