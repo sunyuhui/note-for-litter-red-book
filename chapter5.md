@@ -53,5 +53,9 @@
 所以在上面访问`name.age`是才会undefined.
 
 	
+为什么不是先输出console再name=null?
 
-
+	var name = new String('sunyuhui');
+	name.age = 18;
+	console.log(name.age)
+	name = null;
